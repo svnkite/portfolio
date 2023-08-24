@@ -4,7 +4,7 @@
 
 ## Description
 
-This portfolio was created to display my ability as I continue to learn and develop as a developer. This portfolio will contain my collaborative works and assignments that demonstrate my ability. 
+This portfolio was created to display my ability as I continue to learn and develop as a developer. It will contain my collaborative works and assignments that demonstrate my ability. 
 
 ### Dependencies
 
