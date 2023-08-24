@@ -2,11 +2,9 @@
 
 # A Simple Portfolio 
 
-A portfolio to display different work samples
-
 ## Description
 
-This project was primarily created to create a sample for creating a portfolio to allow potential employers view previous projects. It contains a navigation which should automatically take the user to the desired location on a page, as wells as view any contact or about me information.
+This portfolio was created to display my ability as I continue to learn and develop as a developer. This portfolio will contain my collaborative works and assignments that demonstrate my ability. 
 
 ### Dependencies
 
@@ -26,4 +24,4 @@ Header background image by https://opengameart.org/users/quantiset
 
 Responsive JavaScript ScrollToTop Arrow by Fabian Lin
 
-## [View the application! ==>](https://svnkite.github.io/challenge-2-portfolio)
+## [View it here! ==>](https://svnkite.github.io/challenge-2-portfolio)
