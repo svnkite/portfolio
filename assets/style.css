@@ -217,7 +217,7 @@ img {
     width: inherit;
     height: inherit;
     border-radius: 40px;
-    object-fit: cover;
+    object-fit: fill;
   }
   
   .card .card_title {
